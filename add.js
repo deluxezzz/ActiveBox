@@ -1,9 +1,9 @@
-$(function() {
-    let header = $("header");
-    let intro = $("intro");
-    let introH = intro.height();
+// $(function() {
+//     let header = $("header");
+//     let intro = $("intro");
+//     let introH = intro.height();
 
-    console.log(introH);
+//     console.log(introH);
 
-    header.addClass("fixed");
-});
+//     header.addClass("fixed");
+// });
